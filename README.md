@@ -28,8 +28,8 @@ const firebaseConfig = {
 yarn install && npm install
 react-native link
 ```
-```
+
 * Run app
-npm start
 ```
+npm start
 ```
