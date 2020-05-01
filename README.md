@@ -10,7 +10,7 @@ git clone https://github.com/Sai-Adarsh/react-native-firebase-authentication-tem
 cd react-native-firebase-authentication-template
 ```
 
-* Open App.js and replace with you firebase config
+* Open App.js and replace with your firebase config
 ```
 const firebaseConfig = {
   apiKey: "",
