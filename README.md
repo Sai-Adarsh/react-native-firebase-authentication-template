@@ -1,7 +1,7 @@
 ## ⚛🔥 React Native Firebase Authentication Template ⚛🔥
 
 ### Demo
-![](https://raw.githubusercontent.com/Sai-Adarsh/react-native-firebase-authentication-template/master/assets/screenshots/1.jpg)
+![](https://raw.githubusercontent.com/Sai-Adarsh/react-native-firebase-authentication-template/master/assets/screenshots/2.jpg)
 
 ### Setup
 
